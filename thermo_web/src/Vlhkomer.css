@@ -1,0 +1,51 @@
+.vlhkomer table {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+    max-height: 200px;
+
+    vertical-align: middle;
+    
+
+
+}
+.vlhkomer table tr {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.vlhkomer table tr th {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.vlhkomer table tr td {
+    font-size: 22px;
+
+}
+
+.val {
+    color: rgb(83, 52, 255);
+    font-size: 30px !important;
+
+}
+.valError.val {
+    color: rgb(255, 0, 0);
+    font-size: 30px !important;
+
+}
+.green {
+    color: rgb(3, 226, 33)
+}
+
+.vlhkomer table tr th a {
+    font-size: 10px;
+    font-weight: lighter;
+
+}

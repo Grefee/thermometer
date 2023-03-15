@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<temp typ="oboji">
+		<name>TCZLIB110</name>
+		<ip>10.10.197.110</ip>
+		<idT>104</idT>
+		<idV>105</idV>
+	</temp>
+	<temp typ="oboji">
+		<name>TCZLIB112</name>
+		<ip>10.10.197.112</ip>
+		<idT>104</idT>
+		<idV>105</idV>
+	</temp>
+	<temp typ="teplota">
+		<name>TCZLIB301</name>
+		<ip>10.10.197.151</ip>
+		<id>1</id>
+	</temp>
+
+	<temp typ="teplota">
+		<name>TCZLIB302</name>
+		<ip>10.10.197.152</ip>
+		<id>104</id>
+	</temp>
+	<temp typ="oboji">
+		<name>TCZLIB303</name>
+		<ip>10.10.197.153</ip>
+		<idT>106</idT>
+		<idV>107</idV>
+
+	</temp>
+	<temp typ="teplota">
+		<name>TCZLIB304</name>
+		<ip>10.10.197.154</ip>
+		<id>105</id>
+	</temp>
+	<temp typ="teplota">
+		<name>TCZLIB306</name>
+		<ip>10.10.197.156</ip>
+		<id>104</id>
+	</temp>
+	<temp typ="teplota">
+		<name>TCZLIB307</name>
+		<ip>10.10.197.157</ip>
+		<id>104</id>
+	</temp>
+	<temp typ="teplota">
+		<name>TCZLIB308</name>
+		<ip>10.10.197.158</ip>
+		<id>1</id>
+	</temp>
+	<temp typ="teplota">
+		<name>TCZLIB309</name>
+		<ip>10.10.197.165</ip>
+		<id>104</id>
+	</temp>
+
+	<temp typ="teplota">
+		<name>TCZLIB310</name>
+		<ip>10.10.197.159</ip>
+		<id>104</id>
+	</temp>
+
+	<temp typ="teplota">
+		<name>TCZLIB315</name>
+		<ip>10.10.197.164</ip>
+		<id>104</id>
+	</temp>
+</list>

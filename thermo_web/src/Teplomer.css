@@ -1,0 +1,42 @@
+.teplomer table {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 30px;
+    max-height: 200px;
+
+    vertical-align: middle;
+    
+
+
+}
+.teplomer table tr {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.teplomer table tr th {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+}
+
+.teplomer table tr td {
+    font-size: 22px;
+
+}
+
+.val {
+    color: rgb(83, 52, 255);
+    font-size: 30px !important;
+
+}
+
+.valError {
+    color: rgb(255, 0, 0);
+    font-size: 30px !important;
+}
