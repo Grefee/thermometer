@@ -3,21 +3,14 @@ import './App.css';
 import Teplomer from './Teplomer';
 import Vlhkomer from './Vlhkomer';
 
-
-
-
 function App() {
   return (
     <div className="App">
         <div className='container'>
           <div className='div0'>
-
             <h1>Teplomery Sklad</h1>
-  
-          </div>
-          
+          </div>    
           <div className='div1'>
-
             <Teplomer name="Příjem zboží" hidenName="TCZLIB302" minT={18} maxT={30} />
             <Teplomer name="Rampy" hidenName="TCZLIB301" minT={18} maxT={30} />
             <Teplomer name="Regál A chemie 2,5 m" hidenName="TCZLIB304" minT={18} maxT={30} />
@@ -32,14 +25,10 @@ function App() {
             <Teplomer name="Halla A1" hidenName="TCZLIB305" minT={20} maxT={30} />
             <Teplomer name="Halla A2" hidenName="TCZLIB314" minT={20} maxT={30} />
             <Vlhkomer name="FG" hidenName="TCZLIB303" minT={18} maxT={30} minV={40.00} maxV={99} />
-
           </div>
-
-
         </div>
     </div>
   );
 }
-
 
 export default App;
