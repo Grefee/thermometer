@@ -45,7 +45,6 @@ useEffect(() => {
         <table>
             <tr>
                 <th>{props.name}   <a>  ({props.hidenName})</a></th>
-
             </tr>
             <tr>
                 {
